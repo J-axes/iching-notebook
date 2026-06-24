@@ -1,67 +1,58 @@
 [
   {
-    "bits": [
-      8,
-      7,
-      8,
-      6,
-      8,
-      7
-    ],
+    "digits": [8, 7, 8, 6, 8, 7],
     "time": "2026-05-24T23:14:23.514Z",
-    "shibo": false,
     "favo": true
   },
   {
-    "bits": [
-      9,
-      8,
-      6,
-      8,
-      8,
-      7
-    ],
+    "digits": [9, 8, 6, 8, 8, 7],
     "time": "2026-05-26T11:50:35.439Z",
-    "shibo": true,
+    "shibo": "1:5:7:3",
     "favo": true
   },
   {
-    "bits": [
-      0,
-      0,
-      1,
-      1,
-      0,
-      1
-    ],
+    "digits": [0, 0, 1, 1, 0, 1],
     "time": "2026-05-27T09:41:14.181Z",
-    "shibo": false,
     "favo": true
   },
   {
-    "bits": [
-      6,
-      9,
-      6,
-      7,
-      7,
-      8
-    ],
+    "digits": [6, 9, 6, 7, 7, 8],
     "time": "2026-05-28T21:39:31.418Z",
-    "shibo": false,
     "favo": true
   },
   {
-    "bits": [
-      7,
-      9,
-      8,
-      9,
-      7,
-      8
-    ],
+    "digits": [7, 9, 8, 9, 7, 8],
     "time": "2026-05-28T22:47:20.012Z",
-    "shibo": true,
+    "shibo": "1:5:7:3",
     "favo": true
+  },
+  {
+    "digits": [0, 0, 0, 0, 0, 0],
+    "time": "2026-06-09T17:37:17.521Z",
+    "favo": false
+  },
+  {
+    "digits": [8, 9, 7, 9, 7, 9],
+    "time": "2026-06-16T18:45:37.402Z",
+    "shibo": "1:5:7:3",
+    "favo": true,
+    "name": "この車はいいですか",
+    "note": "The hexagram indicated it's a new car, which was so true... \n\nThe future hexagram gave a clear warning and the moving lines revealed which components to blame."
+  },
+  {
+    "digits": [8, 7, 8, 7, 8, 8],
+    "time": "2026-06-17T14:24:31.857Z",
+    "shibo": "1:5:7:3",
+    "favo": true,
+    "name": "解：利西南，無所往，其來復吉，有攸往，夙",
+    "note": "제가 번역을 제대로 한 건가요?"
+  },
+  {
+    "digits": [9, 8, 6, 8, 8, 7],
+    "time": "2026-06-17T22:59:19.784Z",
+    "shibo": "1:5:7:3",
+    "favo": true,
+    "name": "How Is He?",
+    "note": "啊？\n有点意思。。。"
   }
 ]

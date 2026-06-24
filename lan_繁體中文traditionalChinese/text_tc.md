@@ -1,6 +1,7 @@
 ## 01. ䷀ 乾爲天 -乾
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/001.jpg)
 ### tab2
 
@@ -79,24 +80,15 @@
 
 #### 文言
 
-**文言曰：元者善之長也，亨者嘉之會也，利者義之和也，貞者事之幹也。君子體仁足以長人，嘉會足以合禮，利物足以和義，貞固足以幹事。君子行此四德者，故曰：「乾，元亨利貞。」**
-
+##### 文言曰：元者善之長也，亨者嘉之會也，利者義之和也，貞者事之幹也。君子體仁足以長人，嘉會足以合禮，利物足以和義，貞固足以幹事。君子行此四德者，故曰：「乾，元亨利貞。」
 ##### 潛龍勿用，下也。見龍在田，時舍也。終日乾乾，行事也。或躍在淵，自試也。飛龍在天，上治也。亢龍有悔，窮之災也。乾元用九，天下治也。
-
 ##### 潛龍勿用，陽氣潛藏。見龍在田，天下文明。終日乾乾，與時偕行。或躍在淵，乾道乃革。飛龍在天，乃位乎天德。亢龍有悔，與時偕極。乾元用九，乃見天則。
-
 ##### 乾元者，始而亨者也。利貞者，性情也。乾始能以美利利天下，不言所利，大矣哉！大哉乾乎！剛健中正，純粹精也。六爻發揮，旁通情也。時乘六龍，以御天也。雲行雨施，天下平也。
-
 ##### 君子以成德為行，日可見之行也。潛之為言也，隱而未見，行而未成，是以君子弗用也。
-
 ##### 君子學以聚之，問以辯之，寬以居之，仁以行之。《易》曰：「見龍在田，利見大人。」君德也。
-
 ##### 九三重剛而不中，上不在天，下不在田，故乾乾因其時而惕，雖危无咎矣。
-
 ##### 九四重剛而不中，上不在天，下不在田，中不在人，故或之。或之者，疑之也，故无咎。
-
 ##### 夫大人者，與天地合其德，與日月合其明，與四時合其序，與鬼神合其吉凶。先天而天弗違，後天而奉天時。天且弗違，而況於人乎？況於鬼神乎？
-
 ##### 亢之為言也，知進而不知退，知存而不知亡，知得而不知喪。其唯聖人乎！知進退存亡而不失其正者，其唯聖人乎！
 
 
@@ -104,7 +96,6 @@
 
 ### tab1
 #### 圖
-
 ![本地圖片測試(The National Library of Korea)](assets/guatu_pdf/002.jpg)
 
 文字格式測試
@@ -125,10 +116,15 @@
 • 一、{坤|ㄎㄨㄣ}：
 • 1. {元|ㄩㄢˊ}、{亨|ㄏㄥ}、{利|ㄌㄧˋ}{牝|ㄆㄧㄣˋ}{馬|ㄇㄚˇ}{之|ㄓ}{貞|ㄓㄣ}。
 
+引用文字（>）
+> {坤|ㄎㄨㄣ}：{元|ㄩㄢˊ}、{亨|ㄏㄥ}、{利|ㄌㄧˋ}{牝|ㄆㄧㄣˋ}{馬|ㄇㄚˇ}{之|ㄓ}{貞|ㄓㄣ}。
+
 連結文字
 [https://example.com](https://example.com)
 
 ![線上圖片測試 https://picsum.photos/1200/300](https://picsum.photos/1200/300)
+
+
 
 
 ### tab2
@@ -204,23 +200,18 @@
 
 #### 文言
 
-**文言曰：坤至柔而動也剛，至靜而德方。後得主而有常，含萬物而化光，坤道其順乎？承天而時行。**
-
+##### 文言曰：坤至柔而動也剛，至靜而德方。後得主而有常，含萬物而化光，坤道其順乎？承天而時行。
 ##### 積善之家，必有餘慶。積不善之家，必有餘殃。臣弑其君，子弑其父，非一朝一夕之故，其所由來者漸矣，由辯之不早辯也。《易》曰：「履霜堅冰至。」蓋言順也。
-
 ##### 直其正也，方其義也。君子敬以直內，義以方外，敬義立而德不孤。直方大，不習无不利，則不疑其所行也。
-
 ##### 陰雖有美，含之，以從王事，弗敢成也。地道也，妻道也，臣道也。地道无成而代有終也。
-
 ##### 天地變化，草木蕃。天地閉，賢人隱。《易》曰：「括囊，无咎无譽。」蓋言謹也。
-
 ##### 君子黃中通理，正位居體。美在其中而暢於四支，發於事業，美之至也。
-
 ##### 陰疑於陽必戰，為其嫌於无陽也，故稱龍焉。猶未離其類也，故稱血焉。夫玄黃者，天地之雜也，天玄而地黃。
 
 ## 03. ䷂ 水雷屯 -屯
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/003.jpg)
 
 ### tab2
@@ -287,6 +278,7 @@
 ## 04. ䷃ 山水蒙 -蒙
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/004.jpg)
 ### tab2
 
@@ -352,6 +344,7 @@
 ## 05. ䷄ 水天需 -需
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/005.jpg)
 ### tab2
 
@@ -417,6 +410,7 @@
 ## 06. ䷅ 天水讼 -讼
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/006.jpg)
 ### tab2
 
@@ -482,6 +476,7 @@
 ## 07. ䷆ 地水師 -師
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/007.jpg)
 ### tab2
 
@@ -547,6 +542,7 @@
 ## 08. ䷇ 水地比 -比
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/008.jpg)
 ### tab2
 
@@ -612,6 +608,7 @@
 ## 09. ䷈ 風天小畜 -小畜
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/009.jpg)
 ### tab2
 
@@ -678,6 +675,7 @@
 ## 10. ䷉ 天澤履 -履
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/010.jpg)
 ### tab2
 
@@ -744,6 +742,7 @@
 ## 11. ䷊ 地天泰 -泰
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/011.jpg)
 ### tab2
 
@@ -810,6 +809,7 @@
 ## 12. ䷋ 天地否 -否
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/012.jpg)
 ### tab2
 
@@ -876,6 +876,7 @@
 ## 13. ䷌ 天火同人 -同人
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/013.jpg)
 ### tab2
 
@@ -942,6 +943,7 @@
 ## 14. ䷍ 火天大有 -大有
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/014.jpg)
 ### tab2
 
@@ -1008,6 +1010,7 @@
 ## 15. ䷎ 地山謙 -謙
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/015.jpg)
 ### tab2
 
@@ -1074,6 +1077,7 @@
 ## 16. ䷏ 雷地豫 -豫
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/016.jpg)
 ### tab2
 
@@ -1140,6 +1144,7 @@
 ## 17. ䷐ 澤雷隨 -隨
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/017.jpg)
 ### tab2
 
@@ -1206,6 +1211,7 @@
 ## 18. ䷑ 山風蠱 -蠱
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/018.jpg)
 ### tab2
 
@@ -1273,6 +1279,7 @@
 ## 19. ䷒ 地澤臨 -臨
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/019.jpg)
 ### tab2
 
@@ -1340,6 +1347,7 @@
 ## 20. ䷓ 風地觀 -觀
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/020.jpg)
 ### tab2
 
@@ -1406,6 +1414,7 @@
 ## 21. ䷔ 火雷噬嗑 -噬嗑
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/021.jpg)
 ### tab2
 
@@ -1472,6 +1481,7 @@
 ## 22. ䷕ 山火賁 -賁
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/022.jpg)
 ### tab2
 
@@ -1538,6 +1548,7 @@
 ## 23. ䷖ 山地剝 -剝
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/023.jpg)
 ### tab2
 
@@ -1604,6 +1615,7 @@
 ## 24. ䷗ 地雷復 -復
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/024.jpg)
 ### tab2
 
@@ -1671,6 +1683,7 @@
 ## 25. ䷘ 天雷無妄 -無妄
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/025.jpg)
 ### tab2
 
@@ -1737,6 +1750,7 @@
 ## 26. ䷙ 山天大畜 -大畜
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/026.jpg)
 ### tab2
 
@@ -1803,6 +1817,7 @@
 ## 27. ䷚ 山雷頤 -頤
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/027.jpg)
 ### tab2
 
@@ -1869,6 +1884,7 @@
 ## 28. ䷛ 澤風大過 -大過
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/028.jpg)
 ### tab2
 
@@ -1935,6 +1951,7 @@
 ## 29. ䷜ 坎爲水 -坎
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/029.jpg)
 ### tab2
 
@@ -2001,6 +2018,7 @@
 ## 30. ䷝ 離爲火 -離
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/030.jpg)
 ### tab2
 
@@ -2067,6 +2085,7 @@
 ## 31. ䷞ 澤山咸 -咸
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/031.jpg)
 ### tab2
 
@@ -2133,6 +2152,7 @@
 ## 32. ䷟ 雷風恆 -恆
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/032.jpg)
 ### tab2
 
@@ -2199,6 +2219,7 @@
 ## 33. ䷠ 天山遯 -遯
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/033.jpg)
 ### tab2
 
@@ -2265,6 +2286,7 @@
 ## 34. ䷡ 雷天大壯 -大壯
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/034.jpg)
 ### tab2
 
@@ -2331,6 +2353,7 @@
 ## 35. ䷢ 火地晉 -晉
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/035.jpg)
 ### tab2
 
@@ -2397,6 +2420,7 @@
 ## 36. ䷣ 地火明夷 -明夷
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/036.jpg)
 ### tab2
 
@@ -2463,6 +2487,7 @@
 ## 37. ䷤ 風火家人 -家人
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/037.jpg)
 ### tab2
 
@@ -2529,6 +2554,7 @@
 ## 38. ䷥ 火澤睽 -睽
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/038.jpg)
 ### tab2
 
@@ -2595,6 +2621,7 @@
 ## 39. ䷦ 水山蹇 -蹇
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/039.jpg)
 ### tab2
 
@@ -2661,6 +2688,7 @@
 ## 40. ䷧ 雷水解 -解
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/040.jpg)
 ### tab2
 
@@ -2727,6 +2755,7 @@
 ## 41. ䷨ 山澤損 -損
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/041.jpg)
 ### tab2
 
@@ -2794,6 +2823,7 @@
 ## 42. ䷩ 風雷益 -益
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/042.jpg)
 ### tab2
 
@@ -2860,6 +2890,7 @@
 ## 43. ䷪ 澤天夬 -夬
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/043.jpg)
 ### tab2
 
@@ -2927,6 +2958,7 @@
 ## 44. ䷫ 天風姤 -姤
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/044.jpg)
 ### tab2
 
@@ -2988,6 +3020,7 @@
 ## 45. ䷬ 澤地萃 -萃
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/045.jpg)
 ### tab2
 
@@ -3054,6 +3087,7 @@
 ## 46. ䷭ 地風升 -升
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/046.jpg)
 ### tab2
 
@@ -3120,6 +3154,7 @@
 ## 47. ䷮ 澤水困 -困
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/047.jpg)
 ### tab2
 
@@ -3186,6 +3221,7 @@
 ## 48. ䷯ 水風井 -井
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/048.jpg)
 ### tab2
 
@@ -3253,6 +3289,7 @@
 ## 49. ䷰ 澤火革 -革
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/049.jpg)
 ### tab2
 
@@ -3319,6 +3356,7 @@
 ## 50. ䷱ 火風鼎 -鼎
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/050.jpg)
 ### tab2
 
@@ -3385,6 +3423,7 @@
 ## 51. ䷲ 震爲雷 -震
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/051.jpg)
 ### tab2
 
@@ -3451,6 +3490,7 @@
 ## 52. ䷳ 艮爲山 -艮
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/052.jpg)
 ### tab2
 
@@ -3517,6 +3557,7 @@
 ## 53. ䷴ 風山漸 -漸
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/053.jpg)
 ### tab2
 
@@ -3583,6 +3624,7 @@
 ## 54. ䷵ 雷澤歸妹 -歸妹
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/054.jpg)
 ### tab2
 
@@ -3649,6 +3691,7 @@
 ## 55. ䷶ 雷火豐 -豐
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/055.jpg)
 ### tab2
 
@@ -3715,6 +3758,7 @@
 ## 56. ䷷ 火山旅 -旅
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/056.jpg)
 ### tab2
 
@@ -3781,6 +3825,7 @@
 ## 57. ䷸ 巽爲風 -巽
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/057.jpg)
 ### tab2
 
@@ -3847,6 +3892,7 @@
 ## 58. ䷹ 兌爲澤 -兌
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/058.jpg)
 ### tab2
 
@@ -3913,6 +3959,7 @@
 ## 59. ䷺ 風水渙 -渙
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/059.jpg)
 ### tab2
 
@@ -3979,6 +4026,7 @@
 ## 60. ䷻ 水澤節 -節
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/060.jpg)
 ### tab2
 
@@ -4045,6 +4093,7 @@
 ## 61. ䷼ 風澤中孚 -中孚
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/061.jpg)
 ### tab2
 
@@ -4111,6 +4160,7 @@
 ## 62. ䷽ 雷山小過 -小過
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/062.jpg)
 ### tab2
 
@@ -4178,6 +4228,7 @@
 ## 63. ䷾ 水火既濟 -既濟
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/063.jpg)
 ### tab2
 
@@ -4244,6 +4295,7 @@
 ## 64. ䷿ 火水未濟 -未濟
 
 ### tab1
+#### 圖
 ![(The National Library of Korea)](assets/guatu_pdf/064.jpg)
 ### tab2
 

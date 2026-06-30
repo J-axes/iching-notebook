@@ -2,7 +2,7 @@
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/001.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/001.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -40,30 +40,30 @@ Commentary (Tuan Zhuan): Vast is the ‘ great and originating (power) ’ indic
 /2&
 
 &3&
-##### Line 3, Undivided: In the third line, undivided, (we see its subject as) the superior man active and vigilant all the day, and in the evening still careful and apprehensive. (The position is) dangerous, but there will be no mistake.
+##### Line 3, Undivided: The third line, undivided, shows its subject taking no extraordinary precautions against danger; and some in consequence finding opportunity to assail and injure him. There will be evil.
 
-##### Symbol: ‘Active and vigilant all the day :’'—(this refers to) the treading of the (proper) path over and over again.
+##### Symbol: "Some in consequence find opportunity to assail and injure him. There will be evil:"--how great will it be!
 
 /3&
 
 &4&
-##### Line 4, Undivided: In the fourth line, undivided, (we see its subject as the dragon looking) as if he were leaping up, but still in the deep. There will be no mistake.
+##### Line 4, Undivided: The fourth line, undivided, shows its subject falling into no error, but meeting (the exigency of his situation), without exceeding (in his natural course). If he go forward, there will be peril, and he must be cautious. There is no occasion to be using firmness perpetually.
 
-##### Symbol: ‘He seems to be leaping up, but is still in the deep :'— if he advance, there will be no error.
+##### Symbol: "He meets the exigency (of his situation), without exceeding (the proper course):"—(he does so), the position being inappropriate (for a strong line).
 
 /4&
 
 &5&
-##### Line 5, Undivided: In the fifth line, undivided, (we see its subject as) the dragon on the wing in the sky. It will be advantageous to meet with the great man.
+##### Line 5, Divided: The fifth line, divided, (suggests the idea) of dense clouds, but no rain, coming from our borders in the west. It also (shows) the prince shooting his arrow, and taking the bird in a cave.
 
-##### Symbol: ‘The dragon is on the wing in the sky :’'—the great man rouses himself to his work.
+##### Symbol: "There are dense clouds, but no rain:"—(the line) is in too high a place.
 
 /5&
 
 &6&
-##### Top Line, Undivided: In the sixth (or topmost) line, undivided, (we see its subject as) the dragon exceeding the proper limits. There will be occasion for repentance.
+##### Top Line, Divided: The topmost line, divided, shows its subject not meeting (the exigency of his situation), and exceeding (his proper course). (It suggests the idea of) a bird flying far aloft. There will be evil. The case is what is called one of calamity and self-produced injury.
 
-##### Symbol: ‘The dragon exceeds the proper limits ;— there will be occasion for repentance :’—a state of fulness, that is, should not be indulged in long.
+##### Symbol: "He does not meet the exigency (of his situation), and exceeds (his proper course):"—(the position indicates) the habit of domineering.
 
 /6&
 
@@ -155,9 +155,32 @@ Chapter VI. 30. In the superior man his conduct is (the fruit of) his perfected 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/002.jpg)
+![local image rendering preview(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/002.jpg)
 
+text formatting preview
 
+Receptive (Kun): Khwă n (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare.
+
+(**)
+**Receptive (Kun): Khwă n (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare.**
+
+（####）
+#### Receptive (Kun): Khwă n (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare.
+
+（#####）
+##### Receptive (Kun): Khwă n (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare.
+
+（•）
+• 一、Receptive (Kun): 
+• 1. Khwă n (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare.
+
+（>）
+> Receptive (Kun): Khwă n (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare.
+
+link text preview:
+[https://example.com](https://example.com)
+
+![online image rendering preview https://picsum.photos/1200/300](https://picsum.photos/1200/300)
 
 ### tab2
 
@@ -260,7 +283,7 @@ Chapter II. 5. The family that accumulates goodness is sure to have superabundan
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/003.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/003.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -330,7 +353,7 @@ Commentary (Tuan Zhuan): In Aun we have the strong (Kien) and the weak (Khw4an) 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/004.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/004.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -400,7 +423,7 @@ Commentary (Tuan Zhuan): In Mang we have (the trigram for) a mountain, and below
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/005.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/005.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -470,7 +493,7 @@ Commentary (Tuan Zhuan): Hsii denotes waiting. (The figure) shows peril in front
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/006.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/006.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -540,7 +563,7 @@ Commentary (Tuan Zhuan): The upper portion of Sung is (the trigram representing)
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/007.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/007.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -601,6 +624,8 @@ Commentary (Tuan Zhuan): (The name) Sze describes the multitude (of the host). T
 &6&
 ##### Top Line, Divided: The topmost line, divided, shows the great ruler delivering his charges, (appointing some) to be rulers of states, and others to undertake the headship of clans; but small men should not be employed (in such positions).
 
+##### Symbol: "The great ruler delivers his charges:"--thereby he rightly apportions merit. "Small men should not be employed:"--they are sure to throw the states into confusion.
+
 /6&
 
 
@@ -608,7 +633,7 @@ Commentary (Tuan Zhuan): (The name) Sze describes the multitude (of the host). T
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/008.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/008.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -678,7 +703,7 @@ Commentary (Tuan Zhuan): ‘Pi indicates that there is good fortune :'—(the na
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/009.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/009.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -748,7 +773,7 @@ Commentary (Tuan Zhuan): In Hsiao AA the weak line occupies its (proper) positio
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/010.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/010.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -818,7 +843,7 @@ Commentary (Tuan Zhuan): In Lt we have (the symbol of) weakness treading on (tha
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/011.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/011.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -888,7 +913,7 @@ Commentary (Tuan Zhuan): ‘The little come and the great gone in ThAi, and its 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/012.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/012.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -958,7 +983,7 @@ Commentary (Tuan Zhuan): ‘The want of good understanding between the (differen
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/013.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/013.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1028,7 +1053,7 @@ Commentary (Tuan Zhuan): rt. In Thung Z&n the weak (line) has the place (of infl
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/014.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/014.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1098,7 +1123,7 @@ Commentary (Tuan Zhuan): In T& YQ the weak (line) has the place of honour, is gr
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/015.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/015.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1168,7 +1193,7 @@ Commentary (Tuan Zhuan): Ahien indicates progress and success. It is the way of 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/016.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/016.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1238,7 +1263,7 @@ Commentary (Tuan Zhuan): In Yii we see the strong (line) responded to by all the
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/017.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/017.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1308,7 +1333,7 @@ Commentary (Tuan Zhuan): In Sui we see the strong (trigram) come and place itsel
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/018.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/018.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1378,7 +1403,7 @@ Commentary (Tuan Zhuan): In Kd we have the strong (trigram) above, and the weak 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/019.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/019.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1448,7 +1473,7 @@ Commentary (Tuan Zhuan): In Lin (we see) the strong (lines) gradually increasing
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/020.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/020.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1518,7 +1543,7 @@ Commentary (Tuan Zhuan): The great Manifester occupies an upper place (in the fi
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/021.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/021.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1588,7 +1613,7 @@ Commentary (Tuan Zhuan): The existence of something between the jaws gives rise 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/022.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/022.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1614,30 +1639,42 @@ Commentary (Tuan Zhuan): (When it is said that) Pt indicates that there should b
 &1&
 ##### Line 1, Undivided: The first line, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
 
+##### Symbol: "He can discard a carriage and walk on foot:"--righteousness requires that he should not ride.
+
 /1&
 
 &2&
 ##### Line 2, Divided: The second line, divided, shows one adorning his beard.
+
+##### Symbol: "He adorns his beard:"--he rouses himself to action (only) along with the (subject of the) line above.
 
 /2&
 
 &3&
 ##### Line 3, Undivided: The third line, undivided, shows its subject with the appearance of being adorned and bedewed (with rich favours). But let him ever maintain his firm correctness, and there will be good fortune.
 
+##### Symbol: "The good fortune consequent on his ever maintaining firm correctness" is due to this,--that to the end no one will insult him.
+
 /3&
 
 &4&
 ##### Line 4, Divided: The fourth line, divided, shows one looking as if adorned, but only in white. As if (mounted on) a white horse, and furnished with wings, (he seeks union with the subject of the first line), while (the intervening third pursues), not as a robber, but intent on a matrimonial alliance.
+
+##### Symbol: "The place occupied by the fourth SIX, (divided)," affords ground for doubt (as to its subject); but ""(as the subject of the third pursues) not as a robber, but as intent on a matrimonial alliance," he will in the end have no grudge against him.
 
 /4&
 
 &5&
 ##### Line 5, Divided: The fifth line, divided, shows its subject adorned by (the occupants of) the heights and gardens. He bears his roll of silk, small and slight. He may appear stingy; but there will be good fortune in the end.
 
+##### Symbol: "The good fortune falling to the fifth SIX, (divided); affords occasion for joy.
+
 /5&
 
 &6&
 ##### Top Line, Undivided: The sixth line, undivided, shows one with white as his (only) ornament. There will be no error.
+
+##### Symbol: "The freedom from error attached to (the subject of) the topmost line, with no ornament but the (simple white)," shows how he has attained his aim.
 
 /6&
 
@@ -1646,7 +1683,7 @@ Commentary (Tuan Zhuan): (When it is said that) Pt indicates that there should b
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/023.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/023.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1716,7 +1753,7 @@ Commentary (Tuan Zhuan): Po denotes overthrowing or being overthrown. We see (in
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/024.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/024.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1786,7 +1823,7 @@ Commentary (Tuan Zhuan): ‘FQ indicates the free course and progress (of what i
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/025.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/025.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1856,7 +1893,7 @@ Commentary (Tuan Zhuan): In Wi Wang we have the strong (first) line come from th
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/026.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/026.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1926,7 +1963,7 @@ Commentary (Tuan Zhuan): In (the trigrams composing) Ta AAO we have (the attribu
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/027.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/027.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -1996,7 +2033,7 @@ Commentary (Tuan Zhuan): ‘lindicates that with firm correctness there will be 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/028.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/028.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2057,6 +2094,8 @@ Commentary (Tuan Zhuan): T& Kwo shows the great ones (=the undivided lines) in e
 &6&
 ##### Top Line, Divided: The topmost line, divided, shows its subject with extraordinary (boldness) wading through a stream, till the water hides the crown of his head. There will be evil, but no ground for blame.
 
+##### Symbol: "Evil follows wading with (extraordinary) boldness (through the stream):"--but (the act) affords no ground for blame.
+
 /6&
 
 
@@ -2064,7 +2103,7 @@ Commentary (Tuan Zhuan): T& Kwo shows the great ones (=the undivided lines) in e
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/029.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/029.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2134,7 +2173,7 @@ Commentary (Tuan Zhuan): Khan repeated shows us one defile succeeding another. 2
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/030.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/030.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2204,7 +2243,7 @@ Commentary (Tuan Zhuan): Li means being attached to. The sun and moon have their
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/031.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/031.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2274,7 +2313,7 @@ Commentary (Tuan Zhuan): Hsien is here used in the sense of Kan, meaning (mutual
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/032.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/032.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2335,6 +2374,8 @@ Commentary (Tuan Zhuan): Hang denotes long continuance. The strong (trigram) is 
 &6&
 ##### Top Line, Divided: The topmost line, divided, shows its subject exciting himself to long continuance. There will be evil. move them is inauspicious. Its subject, however, the line being strong, and in an odd place, will wish to move, and follows the subject of 4, which is understood to be the seat of the mind. He exercises his influence therefore with a mind and purpose, which is not good.
 
+##### Symbol: "The subject of the topmost line is exciting himself to long continuance:"--far will he be from achieving merit.
+
 /6&
 
 
@@ -2342,7 +2383,7 @@ Commentary (Tuan Zhuan): Hang denotes long continuance. The strong (trigram) is 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/033.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/033.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2412,7 +2453,7 @@ Commentary (Tuan Zhuan): ‘Thun indicates successful progress :'—that is, in 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/034.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/034.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2425,7 +2466,7 @@ Commentary (Tuan Zhuan): ‘Thun indicates successful progress :'—that is, in 
 ### tab3
 
 &0&
-**Power of the Great (Da Zhuang): **
+**Power of the Great (Da Zhuang): Tâ Kwang indicates that (under the conditions which it symbolises) it will be advantageous to be firm and correct.**
 **Great Symbol: (The trigram representing) heaven and above it that for thunder form TA K wang. The superior man, in accordance with this, does not take a step which is not according to propriety.**
 
 /0&
@@ -2482,7 +2523,7 @@ Commentary (Tuan Zhuan): In Ta Awang we see that which is great becoming strong.
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/035.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/035.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2495,7 +2536,7 @@ Commentary (Tuan Zhuan): In Ta Awang we see that which is great becoming strong.
 ### tab3
 
 &0&
-**Progress (Jin): **
+**Progress (Jin): In Jìn we see a prince who secures the tranquillity (of the people) presented on that account with numerous horses (by the king) and three times in a day received at interviews.**
 **Great Symbol: (The trigram representing) the earth and that for the bright (sun) coming forth above it form 3in. The superior man, according to this, gives himself to make more brilliant his bright virtue.**
 
 /0&
@@ -2552,7 +2593,7 @@ Commentary (Tuan Zhuan): 3in denotes advancing. 2. (In 3in we have) the bright (
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/036.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/036.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2622,7 +2663,7 @@ Commentary (Tuan Zhuan): (The symbol of) the Earth and that of Brightness enteri
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/037.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/037.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2635,7 +2676,7 @@ Commentary (Tuan Zhuan): (The symbol of) the Earth and that of Brightness enteri
 ### tab3
 
 &0&
-**The Family (Jia Ren): **
+**The Family (Jia Ren): For (the realisation of what is taught in) Jiā Rén, (or for the regulation of the family), what is most advantageous is that the wife be firm and correct.**
 **Great Symbol: (The trigram representing) fire, and that for wind coming forth from it, form Xia Zan. The superior man, in accordance with this, orders his words according to (the truth of) things, and his conduct so that it is uniformly consistent.**
 
 /0&
@@ -2692,7 +2733,7 @@ Commentary (Tuan Zhuan): In Kia Zan the wife has her correct place in the inner 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/038.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/038.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2705,7 +2746,7 @@ Commentary (Tuan Zhuan): In Kia Zan the wife has her correct place in the inner 
 ### tab3
 
 &0&
-**Opposition (Kui): **
+**Opposition (Kui): Kuí indicates that, (notwithstanding the condition of things which it denotes), in small matters there will (still) be good success.**
 **Great Symbol: The application here of the Symbolism is correct, but neither of them comes up to the idea of disunion which is in Khwei. The various paragraphs seem to need no illustration beyond what may be found in the notes on the Text.**
 
 /0&
@@ -2716,32 +2757,44 @@ Commentary (Tuan Zhuan): In Khwei we have (the symbol of) Fire, which, when move
 #### Lines
 
 &1&
-##### Line 1: 
+##### Line 1: The first NINE, undivided, shows that (to its subject) occasion for repentance will disappear. He has lost his horses, but let him not seek for them;--they will return of themselves. Should he meet with bad men, he will not err (in communicating with them).
+
+##### Symbol: "He meets with bad men (and communicates with them):"--(he does so), to avoid the evil of their condemnation.
 
 /1&
 
 &2&
-##### Line 2: 
+##### Line 2: The second NINE, undivided, shows its subject happening to meet with his lord in a bye-passage. There will be no error.
+
+##### Symbol: "He happens to meet with his lord in a bye-passage:"--but he has not deviated (for this meeting) from the (proper) course.
 
 /2&
 
 &3&
-##### Line 3: 
+##### Line 3: In the third SIX, divided, we see one whose carriage is dragged back, while the oxen in it are pushed back, and he is himself subjected to the shaving of his head and the cutting off of his nose. There is no good beginning, but there will be a good end.
+
+##### Symbol: "We see his carriage dragged back:"--this is indicated by the inappropriateness of the position (of the line). "There is no (good) beginning, but there will be a (good) end:"--this arises from his meeting with the strong (subject of the topmost line).
 
 /3&
 
 &4&
-##### Line 4: 
+##### Line 4: The fourth NINE, undivided, shows its subject solitary amidst the (prevailing) disunion. (But) he meets with the good man (represented by the first line), and they blend their sincere desires together. The position is one of peril, but there will be no mistake.
+
+##### Symbol: "They blend their sincere desires together, and there will be no error:"--their (common) aim is carried into effect.
 
 /4&
 
 &5&
-##### Line 5: 
+##### Line 5: The fifth SIX, divided, shows that (to its subject) occasion for repentance will disappear. With his relative (and minister he unites closely and readily) as if he were biting through a piece of skin. When he goes forward (with this help), what error can there be?
+
+##### Symbol: "With his hereditary minister (he unites closely and easily) as if he were biting through a piece of skin:"--his going forward will afford ground for congratulation.
 
 /5&
 
 &6&
-##### Line 6: 
+##### Line 6: The topmost NINE, undivided, shows its subject solitary amidst the (prevailing) disunion. (In the subject of the third line, he seems to) see a pig bearing on its back a load of mud, (or fancies) there is a carriage full of ghosts. He first bends his bow against him, and afterwards unbends it, (for he discovers) that he is not an assailant to injure, but a near relative. Going forward, he shall meet with (genial) rain, and there will be good fortune.
+
+##### Symbol: "The good fortune symbolised by meeting with (genial) rain" springs from the passing away of all doubts.
 
 /6&
 
@@ -2750,7 +2803,7 @@ Commentary (Tuan Zhuan): In Khwei we have (the symbol of) Fire, which, when move
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/039.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/039.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2820,7 +2873,7 @@ Commentary (Tuan Zhuan): The upper or front trigram is Kh4n, the attribute of wh
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/040.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/040.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2833,7 +2886,7 @@ Commentary (Tuan Zhuan): The upper or front trigram is Kh4n, the attribute of wh
 ### tab3
 
 &0&
-**Deliverance (Xie): **
+**Deliverance (Xie): In (the state indicated by) Xiè advantage will be found in the south-west. If no (further) operations be called for, there will be good fortune in coming back (to the old conditions). If some operations be called for, there will be good fortune in the early conducting of them.**
 **Great Symbol: (The trigram representing) thunder and that for rain, with these phenomena in a state of manifestation, form Kieh. The superior man, in accordance with this, forgives errors, and deals gently with crimes.**
 
 /0&
@@ -2890,7 +2943,7 @@ Commentary (Tuan Zhuan): In Xieh we have (the trigram expressive of) peril going
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/041.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/041.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -2903,7 +2956,7 @@ Commentary (Tuan Zhuan): In Xieh we have (the trigram expressive of) peril going
 ### tab3
 
 &0&
-**Decrease (Sun): **
+**Decrease (Sun): In (what is denoted by) Sǔn, if there be sincerity (in him who employs it), there will be great good fortune:--freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of Sǔn) be employed? (Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.**
 **Great Symbol: (The trigram representing) a mountain and beneath it that for the waters of a marsh form Sun. The superior man, in accordance with this, restrains his wrath and represses his desires.**
 
 /0&
@@ -2960,7 +3013,7 @@ Commentary (Tuan Zhuan): In Sun (we see) the lower (trigram) diminished, and the
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/042.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/042.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3030,7 +3083,7 @@ Commentary (Tuan Zhuan): In Yt we see the upper (trigram) diminished, and the lo
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/043.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/043.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3049,7 +3102,7 @@ Commentary (Tuan Zhuan): In Yt we see the upper (trigram) diminished, and the lo
 /0&
 #### Commentary
 
-Commentary (Tuan Zhuan): 
+Commentary (Tuan Zhuan): Kwai is the symbol of displacing or removing. We see (in the figure) the strong (lines) displacing the weak. (We have in it the attributes of) strength and complacency. There is displacement, but harmony (continues). 2. ‘The exhibition (of the criminal’s guilt) in the royal courtyard’ is suggested by the (one) weak (line) mounted on the five strong lines. There ‘is an earnest and sincere appeal (for sympathy and support), and a consciousness of the peril (involved in the undertaking) :’—it is the realisation of this danger, which makes the method (of compassing the object) brilliant. ‘He should make an announcement in his own city, and show that it will not be well to have recourse at once to arms :’—(if he have recourse to arms), what he prefers will (soon) be exhausted. ‘There will be advantage in whatever he shall go forward to:'—when the growth of the strong (lines) has been completed, there will be an end (of the displacement). And ceaselessly it hastens on, Each season’s gifts quick to requite.’
 
 #### Lines
 
@@ -3100,7 +3153,7 @@ Commentary (Tuan Zhuan):
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/044.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/044.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3170,7 +3223,7 @@ Commentary (Tuan Zhuan): Kau has the significance of unexpectedly coming on. (We
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/045.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/045.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3183,7 +3236,7 @@ Commentary (Tuan Zhuan): Kau has the significance of unexpectedly coming on. (We
 ### tab3
 
 &0&
-**Gathering Together (Cui): **
+**Gathering Together (Cui): In (the state denoted by) Cuì, the king will repair to his ancestral temple. It will be advantageous (also) to meet with the great man; and then there will be progress and success, though the advantage must come through firm correctness. The use of great victims will conduce to good fortune; and in whatever direction movement is made, it will be advantageous.**
 **Great Symbol: (The trigram representing the) earth and that for the waters of a marsh raised above it form 3hui. The superior man, in accordance with this, has his weapons of war put in good repair, to be prepared against unforeseen contingencies.**
 
 /0&
@@ -3240,7 +3293,7 @@ Commentary (Tuan Zhuan): 3hui indicates (the condition of union, or) being colle
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/046.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/046.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3253,7 +3306,7 @@ Commentary (Tuan Zhuan): 3hui indicates (the condition of union, or) being colle
 ### tab3
 
 &0&
-**Pushing Upward (Sheng): **
+**Pushing Upward (Sheng): Shēng indicates that (under its conditions) there will be great progress and success. Seeking by (the qualities implied in it) to meet with the great man, its subject need have no anxiety. Advance to the south will be fortunate.**
 **Great Symbol: (The trigram representing) wood and that for the earth with the wood growing in the midst of it form Shang. The superior man, in accordance with this, pays careful attention to his virtue, and accumulates the small developments of it till it is high and great.**
 
 /0&
@@ -3310,7 +3363,7 @@ Commentary (Tuan Zhuan): (We find) the weak (line), as it finds the opportunity,
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/047.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/047.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3380,7 +3433,7 @@ Commentary (Tuan Zhuan): In KhwAn (we see) the strong (lines) covered and obscur
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/048.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/048.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3393,7 +3446,7 @@ Commentary (Tuan Zhuan): In KhwAn (we see) the strong (lines) covered and obscur
 ### tab3
 
 &0&
-**The Well (Jing): **
+**The Well (Jing): (Looking at) Jǐng, (we think of) how (the site of) a town may be changed, while (the fashion of) its wells undergoes no change. (The water of a well) never disappears and never receives (any great) increase, and those who come and those who go can draw and enjoy the benefit. If (the drawing) have nearly been accomplished, but, before the rope has quite reached the water, the bucket is broken, this is evil.**
 **Great Symbol: (The trigram representing) wood and above it that for water form 3ing. The superior man, in accordance with this, comforts the people, and stimulates them to mutual helpfulness.**
 
 /0&
@@ -3450,7 +3503,7 @@ Commentary (Tuan Zhuan): (We have the symbol of) wood in the water and the raisi
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/049.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/049.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3520,7 +3573,7 @@ Commentary (Tuan Zhuan): In Ko (we see) water and fire extinguishing each other;
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/050.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/050.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3533,7 +3586,7 @@ Commentary (Tuan Zhuan): In Ko (we see) water and fire extinguishing each other;
 ### tab3
 
 &0&
-**The Cauldron (Ding): **
+**The Cauldron (Ding): Dǐng gives the intimation of great progress and success.**
 **Great Symbol: (The trigram representing) wood and above it that for fire form Ting. The superior man, in accordance with this, keeps his every position correct, and maintains secure the appointment (of Heaven).**
 
 /0&
@@ -3590,7 +3643,7 @@ Commentary (Tuan Zhuan): In Ting we have (symbolically) the figure of a caldron.
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/051.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/051.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3603,7 +3656,7 @@ Commentary (Tuan Zhuan): In Ting we have (symbolically) the figure of a caldron.
 ### tab3
 
 &0&
-**The Arousing (Zhen): **
+**The Arousing (Zhen): Zhèn gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of The Judgment) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred lî, he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.**
 **Great Symbol: (The trigram representing) thunder, being repeated, forms Aan. The superior man, in accordance with this, is fearful and apprehensive, cultivates (his virtue), and examines (his faults).**
 
 /0&
@@ -3649,7 +3702,9 @@ Commentary (Tuan Zhuan): Kan (gives the intimation of) ease and development. 2. 
 /5&
 
 &6&
-##### Line 6: 
+##### Line 6: The topmost SIX, divided, shows its subject, amidst the startling movements (of the time), in breathless dismay and looking round him with trembling apprehension. If he take action, there will be evil. If, while the startling movements have not reached his own person and his neighbourhood, (he were to take precautions), there would be no error, though his relatives might (still) speak against him.
+
+##### Symbol: "Amid the startling movements he is in breathless dismay:"--he has not found out (the course of) the due mean. "Though evil (threatens), he will not fall into error:"--he is afraid of being warned by his neighbours.
 
 /6&
 
@@ -3658,7 +3713,7 @@ Commentary (Tuan Zhuan): Kan (gives the intimation of) ease and development. 2. 
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/052.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/052.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3728,7 +3783,7 @@ Commentary (Tuan Zhuan): Kan denotes stopping or resting ;— resting when it is
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/053.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/053.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3741,7 +3796,7 @@ Commentary (Tuan Zhuan): Kan denotes stopping or resting ;— resting when it is
 ### tab3
 
 &0&
-**Development (Jian(Dev)): **
+**Development (Jian(Dev)): Kien suggests to us the marriage of a young lady, and the good fortune (attending it). There will be advantage in being firm and correct.**
 **Great Symbol: (The trigram representing) a mountain and above it that for a tree form Kien. The superior man, in accordance with this, attains to and maintains his extraordinary virtue, and makes the manners of the people good.**
 
 /0&
@@ -3798,7 +3853,7 @@ Commentary (Tuan Zhuan): The advance indicated by Xien is (like) the marrying of
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/054.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/054.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3811,7 +3866,7 @@ Commentary (Tuan Zhuan): The advance indicated by Xien is (like) the marrying of
 ### tab3
 
 &0&
-**The Marrying Maiden (Gui Mei): **
+**The Marrying Maiden (Gui Mei): Guī Mèi indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.**
 **Great Symbol: (The trigram representing the waters of) a marsh and over it that for thunder form Kwei Mei. The superior man, in accordance with this; having regard to the far-distant end, knows the mischief (that may be done at the beginning).**
 
 /0&
@@ -3868,7 +3923,7 @@ Commentary (Tuan Zhuan): By Kwei Mei (the marrying away of a younger sister) the
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/055.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/055.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3881,7 +3936,7 @@ Commentary (Tuan Zhuan): By Kwei Mei (the marrying away of a younger sister) the
 ### tab3
 
 &0&
-**Abundance (Feng): **
+**Abundance (Feng): Fēng intimates progress and development. When a king has reached the point (which the name denotes) there is no occasion to be anxious (through fear of a change). Let him be as the sun at noon.**
 **Great Symbol: (The trigrams representing) thunder and lightning combine to form Fang. The superior man, in accordance with this, decides cases of litigation, and apportions punishments with exactness.**
 
 /0&
@@ -3938,7 +3993,7 @@ Commentary (Tuan Zhuan): Fang has the signification of being great. It is made u
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/056.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/056.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -3999,6 +4054,8 @@ Commentary (Tuan Zhuan): ‘Lii indicates that there may be some small attainmen
 &6&
 ##### Top Line, Undivided: The sixth line, undivided, suggests the idea of a bird burning its nest. The stranger, (thus represented), first laughs and then cries out. He has lost his ox(-like docility) too readily and easily. There will be evil. LVI. The name Lii denotes people travelling abroad, and is often translated by ‘strangers.’ As early as the time of king W4n, there was a class of men who went about from one state to another, pursuing their business as pedlars or travelling merchants; but in
 
+##### Symbol: "Considering that the stranger is here at the very height (of distinction)," with the spirit that possesses him, it is right he (should be emblemed by a bird) burning (its nest). "He loses his ox(-like docility) too readily and easily:"--to the end he would not listen to (the truth about the course to be pursued).
+
 /6&
 
 
@@ -4006,7 +4063,7 @@ Commentary (Tuan Zhuan): ‘Lii indicates that there may be some small attainmen
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/057.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/057.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -4076,7 +4133,7 @@ Commentary (Tuan Zhuan): The double Sun shows how, in accordance with it, (gover
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/058.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/058.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -4146,7 +4203,7 @@ Commentary (Tuan Zhuan): Tui has the meaning of pleased satisfaction. 2. (We hav
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/059.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/059.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -4159,7 +4216,7 @@ Commentary (Tuan Zhuan): Tui has the meaning of pleased satisfaction. 2. (We hav
 ### tab3
 
 &0&
-**Dispersion (Huan): **
+**Dispersion (Huan): Huàn intimates that (under its conditions) there will be progress and success. The king goes to his ancestral temple; and it will be advantageous to cross the great stream. It will be advantageous to be firm and correct.**
 **Great Symbol: (The trigram representing) water and that for wind moving above the water form Hwan. The ancient kings, in accordance with this, presented offerings to God and established the ancestral temple.**
 
 /0&
@@ -4216,7 +4273,7 @@ Commentary (Tuan Zhuan): ‘Hwan intimates that there will be progress and succe
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/060.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/060.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -4229,7 +4286,7 @@ Commentary (Tuan Zhuan): ‘Hwan intimates that there will be progress and succe
 ### tab3
 
 &0&
-**Limitation (Jie): **
+**Limitation (Jie): Jié intimates that (under its conditions) there will be progress and attainment. (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.**
 **Great Symbol: (The trigram representing) a lake, and above it that for water, form Aieh. The superior man, in accordance with this, constructs his (methods of) numbering and measurement, and discusses (points of) virtue and conduct.**
 
 /0&
@@ -4286,7 +4343,7 @@ Commentary (Tuan Zhuan): ‘Xieh intimates progress and attainment:’—the str
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/061.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/061.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -4347,6 +4404,8 @@ Commentary (Tuan Zhuan): The structure of the lineal figure which is here insist
 &6&
 ##### Top Line, Undivided: The topmost line, undivided, shows its subject in chanticleer (trying to) mount to heaven. Even with firm correctness there will be evil. Line 6 is weak, in its proper place. The subject of the topmost line must be supposed to possess an exaggerated desire for enacting regulations. They will be too severe, and the effect will be evil. But as Confucius (Analects 3. 3) says, that is not so great a fault as to be easy and remiss. It may be remedied, and cause for repentance will disappear. LXI. Kung F4, the name of this hexagram, may be represented in English by ‘Inmost Sincerity.’ It denotes the highest quality of man, and gives its possessor power so that he prevails with spiritual beings, with other men, and with the lower creatures. It is the
 
+##### Symbol: "Chanticleer (tries to) mount to heaven:"--but how can (such an effort) continue long?
+
 /6&
 
 
@@ -4354,7 +4413,7 @@ Commentary (Tuan Zhuan): The structure of the lineal figure which is here insist
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/062.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/062.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -4392,30 +4451,30 @@ Commentary (Tuan Zhuan): In Hsido Kwo (we see) the small (lines) exceeding the o
 /2&
 
 &3&
-##### Line 3, Undivided: The fourth line, undivided, shows its subject falling into no error, but meeting (the exigency of his situation), without exceeding (in his natural course). If he go forward, there will be peril, and he must be cautious. There is no occasion to be using firmness perpetually.
+##### Line 3, Undivided: The third line, undivided, shows its subject taking no extraordinary precautions against danger; and some in consequence finding opportunity to assail and injure him. There will be evil.
 
-##### Symbol: ‘Some in consequence find opportunity to assail and injure him. There will be evil :’-—how great will it be!
+##### Symbol: "Some in consequence find opportunity to assail and injure him. There will be evil:"--how great will it be!
 
 /3&
 
 &4&
-##### Line 4: The fifth line, civided, (suggests the idea) of dense clouds, but no rain, coming from our borders in the west. It also (shows) the prince shooting his arrow, and taking the bird in a cave.
+##### Line 4, Undivided: The fourth line, undivided, shows its subject falling into no error, but meeting (the exigency of his situation), without exceeding (in his natural course). If he go forward, there will be peril, and he must be cautious. There is no occasion to be using firmness perpetually.
 
-##### Symbol: ‘He meets the exigency (of his situation), without exceeding (the proper course) :'—(he does so), the position being inappropriate (for a strong line).
+##### Symbol: "He meets the exigency (of his situation), without exceeding (the proper course):"—(he does so), the position being inappropriate (for a strong line).
 
 /4&
 
 &5&
-##### Line 5, Divided: The sixth line, divided, shows its subject not meeting the exigency of his situation), and exceeding (his proper course). (It suggests the idea of) a bird flying far aloft. There will be evil. The case is what is called one of calamity and selfproduced injury. LXII. The name Hsido Kwo is explained both by reference to the lines of the hexagram, and to the meaning of the characters.
+##### Line 5, Divided: The fifth line, divided, (suggests the idea) of dense clouds, but no rain, coming from our borders in the west. It also (shows) the prince shooting his arrow, and taking the bird in a cave.
 
-##### Symbol: ‘There are dense clouds, but no rain :’—(the line) is in too high a place.
+##### Symbol: "There are dense clouds, but no rain:"—(the line) is in too high a place.
 
 /5&
 
 &6&
-##### Line 6: 
+##### Top Line, Divided: The topmost line, divided, shows its subject not meeting (the exigency of his situation), and exceeding (his proper course). (It suggests the idea of) a bird flying far aloft. There will be evil. The case is what is called one of calamity and self-produced injury.
 
-##### Symbol: ‘He does not meet the exigency (of his situation), and exceeds (his proper course) :’'—(the position indicates) the habit of domineering.
+##### Symbol: "He does not meet the exigency (of his situation), and exceeds (his proper course):"—(the position indicates) the habit of domineering.
 
 /6&
 
@@ -4424,7 +4483,7 @@ Commentary (Tuan Zhuan): In Hsido Kwo (we see) the small (lines) exceeding the o
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/063.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/063.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -4485,6 +4544,8 @@ Commentary (Tuan Zhuan): ‘Ai 3% intimates progress and success :'—in small m
 &6&
 ##### Top Line, Undivided: The topmost line, divided, shows its subject with (even) his head immersed. The position is perilous. LXIII. The character called A? is used as a symbol of being pastorcompleted. 37 denotes primarily crossing a stream, and has the secondary meaning of helping and completing. The topmost line, undivided, shows its subject second excels in sincerity, and his small offering is the more acceptable. The topmost line is weak, and on the outmost edge of Kh4n, the trigram of peril. His action is violent and perilous, like that one attempting to cross a ford, and being plunged overhead into the water. LXIV. Wei 31 is the reverse of Xf 3%. The name tells us that the successful accomplishment of whatever the writer had in his mind had not yet been realised.}} The vessel of the state has not been brought across the great and dangerous stream. Some have wished that the Yi might have concluded with Af 33, and the last hexagram have left us with the picture of human affairs all brought to good order. But this would not have been in harmony with the full of confidence and therefore feasting (quietly). There will be no error. (If he) cherish this conidea of the Yi, as the book of change. Again and again it has been pointed out that we find in it no idea of a perfect and abiding state. Just as the seasons of the year change and pursue an everrecurring round, so is it with the phases of society. The reign of order has been, and has terminated ; and this hexagram calls us to see the struggle for its realisation recommenced. It treats of how those engaged in that struggle should conduct themselves with a view to secure the happy consummation.
 
+##### Symbol: "His head is immersed; the position is perilous:"--how could such a state continue long?
+
 /6&
 
 
@@ -4492,7 +4553,7 @@ Commentary (Tuan Zhuan): ‘Ai 3% intimates progress and success :'—in small m
 
 ### tab1
 #### Image
-![(The National Library of Korea)](assets/guatu_pdf/064.jpg)
+![(Danyi Tianji (断易天機), collection of the National Library of Korea (국립중앙도서관))](assets/guatu_pdf/064.jpg)
 ### tab2
 
 #### Miscellaneous
@@ -4505,7 +4566,7 @@ Commentary (Tuan Zhuan): ‘Ai 3% intimates progress and success :'—in small m
 ### tab3
 
 &0&
-**Before Completion (Wei Ji): **
+**Before Completion (Wei Ji): Wèi Jì intimates progress and success (in the circumstances which it implies). (We see) a young fox that has nearly crossed (the stream), when its tail gets immersed. There will be no advantage in any way.**
 **Great Symbol: (The trigram representing) water and that for fire above it form Wei 3i. The superior man, in accordance with this, carefully discriminates among (the qualities of) things, and the (different) positions they (naturally) occupy.**
 
 /0&
@@ -4551,7 +4612,9 @@ Commentary (Tuan Zhuan): ‘Wei 3i intimates progress and success (in the circum
 /5&
 
 &6&
-##### Line 6: 
+##### Line 6: The topmost NINE, undivided, shows its subject full of confidence and therefore feasting (quietly). There will be no error. (If he) cherish this confidence, till he (is like the fox who) gets his head immersed, it will fail of what is right.
+
+##### Symbol: "He drinks and gets his head immersed:""--he does not know how to submit to the (proper) regulations.
 
 /6&
 

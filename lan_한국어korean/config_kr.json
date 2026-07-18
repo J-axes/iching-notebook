@@ -123,16 +123,20 @@
   },
   "tab_fields": {
     "tab1": [
-      "hangul","misc"
+      "hangul",
+      "misc"
     ],
     "tab2": [
-      "hangul","dir"
+      "hangul",
+      "dir"
     ],
     "tab3": [
-      "hangul","obj"
+      "hangul",
+      "obj"
     ],
     "guaxiang": [
-      "hangul","act"
+      "hangul",
+      "act"
     ]
   },
   "tab_names": {
@@ -1209,5 +1213,6 @@
         "上九：유부우음주 무구 유기수 유부실시(有孚于飲酒，无咎，濡其首，有孚失是) 음주에 믿음이있다. 허물없다. 그머리를 감으니 이것을 잃으나 믿음은 있다."
       ]
     }
-  ]
+  ],
+  "lit_mode": "zhuxi7"
 }
